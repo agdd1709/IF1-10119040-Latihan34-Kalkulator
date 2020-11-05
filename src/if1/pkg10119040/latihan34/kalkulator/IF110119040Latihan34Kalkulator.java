@@ -12,7 +12,7 @@ package if1.pkg10119040.latihan34.kalkulator;
  * Nama : Agus Deri Dermwan
  * Kelas: IF1
  * NIM  : 10119040
- * program membuat form login
+ * program membuat perhitungan kalkulator
  */
 public class IF110119040Latihan34Kalkulator {
    
